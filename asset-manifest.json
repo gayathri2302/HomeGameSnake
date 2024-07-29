@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HomeGameSnake/static/css/main.50b488fd.css",
+    "main.js": "/HomeGameSnake/static/js/main.2676e833.js",
+    "static/js/453.65e69e2f.chunk.js": "/HomeGameSnake/static/js/453.65e69e2f.chunk.js",
+    "index.html": "/HomeGameSnake/index.html",
+    "main.50b488fd.css.map": "/HomeGameSnake/static/css/main.50b488fd.css.map",
+    "main.2676e833.js.map": "/HomeGameSnake/static/js/main.2676e833.js.map",
+    "453.65e69e2f.chunk.js.map": "/HomeGameSnake/static/js/453.65e69e2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b488fd.css",
+    "static/js/main.2676e833.js"
+  ]
+}
